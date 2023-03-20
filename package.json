@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
   "dependencies": {
     "xmlhttprequest": "^1.8.0"
   }
+
 }
